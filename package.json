@@ -1,6 +1,6 @@
 {
   "name": "zqx-lerna-test-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "laren的测试项目-吊车尾",
   "main": "index.js",
   "scripts": {
