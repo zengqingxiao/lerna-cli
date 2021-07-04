@@ -1,6 +1,6 @@
 {
   "name": "@zqx-lerna-test-cli/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "2490965685 <zqx2490965685@gmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zqx-lerna-test-cli/utils": "^1.0.1"
+    "@zqx-lerna-test-cli/utils": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"
